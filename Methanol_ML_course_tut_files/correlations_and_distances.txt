@@ -1,0 +1,9 @@
+Similarity Results:
+Experimental vs DFT:
+PCC: 0.7291, WD: 0.0546
+
+Experimental vs ML models:
+MACE: PCC = 0.7954, WD = 0.0554
+
+DFT vs ML models:
+MACE: PCC = 0.9162, WD = 0.0093
